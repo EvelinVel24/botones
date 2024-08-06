@@ -1,13 +1,19 @@
 .titulo {
-    font-size: 20px;
+    font-size: 27px;
     text-align: center;
 }
+
+.button-container {
+    display: flex;
+    justify-content: center;
+}
+
 .primary-btn, .secondary-btn, .sucess-btn, .danger-btn {
     color: #fff; 
     border: none;
-    border-radius: 2px;
+    border-radius: 3px;
     padding: 10px 12px;
-    font-size: 12px;
+    margin: 10px;
 }
 
 .primary-btn {

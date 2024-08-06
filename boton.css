@@ -1,6 +1,13 @@
+.titulo {
+    font-size: 20px;
+    text-align: center;
+}
 .primary-btn, .secondary-btn, .sucess-btn, .danger-btn {
     color: #fff; 
     border: none;
+    border-radius: 2px;
+    padding: 10px 12px;
+    font-size: 12px;
 }
 
 .primary-btn {

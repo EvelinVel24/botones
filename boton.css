@@ -1,10 +1,10 @@
-.button-container {
-    color: #fff;
+.primary-btn, .secondary-btn, .sucess-btn, .danger-btn {
+    color: #fff; 
+    border: none;
 }
 
 .primary-btn {
     background-color: #3498db;
-    color: #fff;
 }
 
 .secondary-btn {
